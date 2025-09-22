@@ -49,6 +49,14 @@ ul li a{
     transition: 2s;
 
 }
+ul li select{
+    text-decoration: none;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    transition: 2s;
+
+}
 ul li a:hover{
     color: #ff7200;
 
@@ -123,4 +131,5 @@ ul li a:hover{
     color:#ece6e6;
     transition: 3s;
 }
+
 }
