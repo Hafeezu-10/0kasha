@@ -55,7 +55,7 @@ ul li select{
     font-weight: bold;
     border: none;
     outline: none;
-    background-color: trensperant;
+    background-color: red;
     transition: 2s;
 
 }
@@ -135,5 +135,6 @@ ul li a:hover{
 }
 
 }
+
 
 
